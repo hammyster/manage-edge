@@ -1,0 +1,26 @@
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\bin\Debug\AdminPB.exe.config
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\bin\Debug\AdminPB.exe
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\bin\Debug\AdminPB.pdb
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\obj\Debug\AdminPB.csprojResolveAssemblyReference.cache
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\obj\Debug\AdminPB.Properties.Resources.resources
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\obj\Debug\AdminPB.csproj.GenerateResource.Cache
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\obj\Debug\AdminPB.exe
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\obj\Debug\AdminPB.pdb
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\obj\Debug\AdminPB.Admin.resources
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\bin\Debug\Mono.Security.dll
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\bin\Debug\Npgsql.dll
+c:\users\guilherme\documents\visual studio 2012\Projects\AdminPB\AdminPB\bin\Debug\Npgsql.EntityFramework.dll
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\AdminPB.exe.config
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\AdminPB.exe
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\AdminPB.pdb
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\Mono.Security.dll
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\Npgsql.dll
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\Npgsql.EntityFramework.dll
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.Admin.resources
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.Properties.Resources.resources
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.csproj.CopyComplete
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.exe
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.pdb

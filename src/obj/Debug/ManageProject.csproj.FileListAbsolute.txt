@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\AdminPB.exe.config
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\AdminPB.exe
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\AdminPB.pdb
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\Mono.Security.dll
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\Npgsql.dll
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\bin\Debug\Npgsql.EntityFramework.dll
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.Admin.resources
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.Properties.Resources.resources
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\ManageProject.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\ManageProject.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\ManageProject.csproj.CopyComplete
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.exe
+C:\Users\Usuario\Desktop\AdminPB\AdminPB\obj\Debug\AdminPB.pdb
